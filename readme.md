@@ -83,19 +83,20 @@ After evaluating these models, GoogLeNet was selected for our project due to its
 
 ![Alt text](<CNN_Model_Screenshots/VGGNet16.png> "CNN Model 1")
 
-CNN Model 1: VGGNet16
+**CNN Model 1: VGGNet16**
+
 Training Accuracy: Started at 53.50%, improved to 59.20% over 5 epochs. Test Accuracy: Started at 52.66%, improved to 56.56%. Training Time per Epoch: ~45 seconds.
 
 
 ![Alt text](<CNN_Model_Screenshots/GoogLeNet.png> "CNN Model 2")
 
-CNN Model 2: GoogLeNet
+**CNN Model 2: GoogLeNet**
 
 Training Accuracy: Started at 78.11%, improved to 78.70% over 5 epochs. Test Accuracy: Started at 75.15%, improved to 77.28%. Training Time per Epoch: ~98 seconds.
 
 ![Alt text](<CNN_Model_Screenshots/ResNet.png> "CNN Model 3")
 
-CNN Model 3: ResNet
+**CNN Model 3: ResNet**
 
 Training Accuracy: Started at 51.37%, improved to 53.18% over 5 epochs. Test Accuracy: Started at 45.02%, improved to 51.38%. Training Time per Epoch: ~20 seconds.
 
